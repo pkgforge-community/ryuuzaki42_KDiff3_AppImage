@@ -4,7 +4,7 @@
 ## Repository: https://github.com/ryuuzaki42/KDiff3_AppImage
 
 ---
-Last version: https://github.com/ryuuzaki42/KDiff3_AppImage_last_version
+Last version (Need GlibC >= 2.34): https://github.com/ryuuzaki42/KDiff3_AppImage_last_version
 
 Full version, with Qt6 e Glibc 2.34: https://github.com/ryuuzaki42/AppImage_Full_ArchImage
 
