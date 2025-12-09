@@ -3,14 +3,11 @@ app: KDiff3
 ingredients:
   dist: focal
 
-  #packages:
-  #  - kdiff3=1.9.5
-
   sources:
     - deb http://archive.ubuntu.com/ubuntu/ focal main universe
     #- deb http://archive.ubuntu.com/ubuntu/ focal multiverse
 
-  ppas:
+  #ppas:
     #- blaze/kf5
     #- source/kdiff3
 
